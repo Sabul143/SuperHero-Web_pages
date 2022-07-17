@@ -127,7 +127,7 @@ li a{
 {
     float: left;
     padding: 0px 20px 20px 20px;
-    height: 240px;
+    height: 15.5em;
 }
 .container-3{
     font-style: normal;
@@ -175,9 +175,7 @@ li a{
     font-weight: bolder;
     margin-left: 55px;
 }
-.form , label, h2, p{
-    margin-left: 55px;
-}
+
 p{
    font-weight: normal;
 }
